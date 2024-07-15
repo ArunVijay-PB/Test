@@ -4,10 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-        <h1>Pinboard<h1/>
-      </header>
+      <h1>Pinboard</h1>
     </div>
   );
 }
